@@ -1,6 +1,5 @@
 package com.xiong.easyim.client.command;
 
-import com.xiong.easyim.protocol.MessageProto;
 import lombok.Data;
 
 import java.util.Scanner;
